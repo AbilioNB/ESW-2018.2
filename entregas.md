@@ -10,4 +10,4 @@
 - [x] Diagrama de atividades (4)
 - [x] Diagrama de classes
 - [x] Casos de teste (4)
-- [ ] Plano de gerência de configuração
+- [x] Plano de gerência de configuração
