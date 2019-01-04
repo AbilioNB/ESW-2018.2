@@ -18,6 +18,10 @@ Travis | - | Ferramenta de integração contínua
 
 Os testes e a cobertura de código podem ser verificados a cada commit submetido para o repositório no GitHub, assim, há uma garantia para o projeto dos efeitos de alterações no código.
 
+#### Ambientes
+O ambiente que será entregue à equipe de desenvolvimento deverá ser mantido através de containers Docker previamente criados, destinados especificamente para os processos de desenvolvimento, homologação e teste. Tais containers devem possuir apenas os softwares básicos instalados (Listados na tabela de ferramentas).  
+Outras ferramentas de desenvolvimento, como IDEs e editores de texto/código serão de livre escolha do desenvolvedor, desde que a mesma seja software livre, tais como: Atom, Visual Studio Code, Eclipse, NetBeans, etc.
+
 ### Controle de configuração do software
 #### Níveis de controle de configuração
 Nível | Descrição
